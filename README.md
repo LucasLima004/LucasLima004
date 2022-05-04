@@ -59,7 +59,7 @@ const aboutMe = {
     "Studying and robotics teacher",
     "Drink tasting",
     "cooking"
-  ],
+  ]
 };
 
 function getCurrentCity() {
