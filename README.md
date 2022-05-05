@@ -1,30 +1,24 @@
-<b><h2></b>Hi, my name is Lucas Lima, and this my profile</b></h2></b>
-
+<hr>
 <div align="center">
-  <h3 align="left">My logo:</h3>
+  <h2><b>Lucas Lima</b><br>Full-stack develop junior</h2>
   <img width="100px" src="https://user-images.githubusercontent.com/99892157/166800600-3d31e845-4d18-4286-b5c3-5a7230fb7ff0.svg">
 </div>
-<br>
-<div align="center">
-  <a href="https://api.whatsapp.com/send?phone=5581992160054&text=Ol%C3%A1%2C%20estou%20interessado(a)%20nos%20seus%20servi%C3%A7os." target="_blank">
-    <img width="100px" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a target="_blank" href="mailto:lucaslima004@gmail.com">
-     <img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-lima-6129a4226">
-    <img width="100px" height="30px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
-<br><br>
 <hr>
+<div align="center">
+  <h3>:man_technologist:Welcome to my profile:desktop_computer:</h3>
+</div>
+<img src="https://user-images.githubusercontent.com/99892157/166859475-a8e24b6b-99c6-4e7d-a0d4-186c4bb0c930.gif">
+<br>
+<hr>
+<h3><b>Analysis:</b></h3>
 <div align="center">
     <img height="150px"src="https://github-readme-stats.vercel.app/api?username=LucasLima004&show_icons=true&theme=dark&hide">
     <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=LucasLima004&theme=dark&hide_border=false">
     <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima004&compact&langs_count=8&theme=dark&hide">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark">
 </div>
 <hr>
-<h3>Habilidades:</h3>
+<h3>languages, FrameWorks and softwares:</h3>
 <div align="center">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166745116-59d342da-738b-4fdd-8a74-d74137b5f510.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166745771-0943d652-e527-41c7-9e79-c2ff747eef5d.svg">
@@ -53,10 +47,11 @@
 ```js
 const aboutMe = {
   user: "Lucas",
-  function: "full-stack and industrial automation technician",
+  function: "full-stack junior dev and industrial automation technician",
   current_education: "Estácio, Udemy and Senai",
   hobbies: [
-    "Studying and robotics teacher",
+    "Studying",
+    "Robotic",
     "Drink tasting",
     "cooking"
   ]
@@ -67,3 +62,17 @@ function getCurrentCity() {
 }
 
 ```
+<br>
+<hr>
+<div align="center">
+  <h3><b>Contact:</b></h3>
+  <a href="https://api.whatsapp.com/send?phone=5581992160054&text=Ol%C3%A1%2C%20estou%20interessado(a)%20nos%20seus%20servi%C3%A7os." target="_blank">
+    <img width="100px" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a target="_blank" href="mailto:lucaslima004@gmail.com">
+     <img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/lucas-lima-6129a4226">
+    <img width="100px" height="30px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
