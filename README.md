@@ -15,7 +15,7 @@
     <img height="150px"src="https://github-readme-stats.vercel.app/api?username=LucasLima004&show_icons=true&theme=dark&hide">
     <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=LucasLima004&theme=dark&hide_border=false">
     <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima004&compact&langs_count=8&theme=dark&hide">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark">
+    <img src="https://activity-graph.herokuapp.com/graph?username=LucasLima004&theme=react-dark">
 </div>
 <hr>
 <h3>languages, FrameWorks and softwares:</h3>
@@ -65,15 +65,29 @@ function getCurrentCity() {
 ```
 <br>
 <hr>
+<h3>My portfólio:</h3>
 <div align="center">
+<a href="https://github.com/LucasLima004">
+    <img alt="link to the repository of my portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLima004&repo=Projeto-de-site-Alpha-Studio&bg_color=CD5327&title_color=0D0F1B&text_color=0D0F1B&hide_border=&show_icons=true&icon_color=0D0F1B&locale=en">
+</a>
+</br>
+<a href="https://github.com/LucasLima004">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=D18C30&style=for-the-badge" />
+</a>
+</div>
+<div align="center">
+  
+ <hr>
   <h3><b>Contact:</b></h3>
   <a href="https://api.whatsapp.com/send?phone=5581992160054&text=Ol%C3%A1%2C%20estou%20interessado(a)%20nos%20seus%20servi%C3%A7os." target="_blank">
-    <img width="100px" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img width="100px" height="30px" src="https://img.shields.io/badge/WhatsApp-CD5327?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a target="_blank" href="mailto:lucaslima004@gmail.com">
-     <img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+     <img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-CD5327?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/lucas-lima-6129a4226">
-    <img width="100px" height="30px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img width="100px" height="30px"  src="https://img.shields.io/badge/LinkedIn-CD5327?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
+  
