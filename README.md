@@ -18,7 +18,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=LucasLima004&theme=react-dark">
 </div>
 <hr>
-<h3>languages, FrameWorks and softwares:</h3>
+<h3>languages and FrameWorks:</h3>
 <div align="center">
 
 
@@ -29,16 +29,12 @@
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864745-578dda4f-4e66-4d4e-8a58-05a5b658cc68.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864087-53440296-8e8e-4101-9cd1-c1b741f400f3.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864088-8d6d076b-54a0-411a-a3b8-93ea51887ee1.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864089-d39acee1-f5f0-42e8-a329-c40d3b295e65.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864091-b48ce0f3-e2f2-43b7-94ba-37b9e99d53ee.svg">
   <br>
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864092-cbfc2159-0205-4078-9b04-5546d9b1c383.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864093-326f1884-8bf5-4ec5-b1f1-f9399df4d5d7.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864094-eb60a7b3-e928-4674-9424-90a28e9838e0.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864096-211c5068-98cc-4f61-a796-e0081376d2de.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864097-3d3d62d4-b687-4f3d-9a6c-c98399d3a15f.svg"> 
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864101-ca782975-90aa-4a3b-942c-d894ab05b61b.svg"> 
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864099-d176bbf3-9869-4ca0-951a-ac1ab98ea728.svg"> 
+  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864101-ca782975-90aa-4a3b-942c-d894ab05b61b.svg">  
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864098-464ad402-e545-4017-af8e-75885539feb5.svg"> 
 </div>
 <hr>
