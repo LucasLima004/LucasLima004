@@ -25,16 +25,12 @@
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864082-24199629-2d2c-425f-91e6-b4f618c086e1.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864084-a0e6281b-0843-4a27-93c3-d18a37ce79b6.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864085-45d37755-fc91-44b4-83d1-21ebed76affc.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864086-638fd657-ef5a-4155-b2a4-c336714d8ee2.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864745-578dda4f-4e66-4d4e-8a58-05a5b658cc68.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864087-53440296-8e8e-4101-9cd1-c1b741f400f3.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864088-8d6d076b-54a0-411a-a3b8-93ea51887ee1.svg">
   <br>
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864092-cbfc2159-0205-4078-9b04-5546d9b1c383.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864093-326f1884-8bf5-4ec5-b1f1-f9399df4d5d7.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864094-eb60a7b3-e928-4674-9424-90a28e9838e0.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864096-211c5068-98cc-4f61-a796-e0081376d2de.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864101-ca782975-90aa-4a3b-942c-d894ab05b61b.svg">  
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864098-464ad402-e545-4017-af8e-75885539feb5.svg"> 
 </div>
 <hr>
@@ -49,7 +45,7 @@ const aboutMe = {
   hobbies: [
     "Studying",
     "Robotic",
-    "Drink tasting",
+    "Graphic design",
     "cooking"
   ]
 };
