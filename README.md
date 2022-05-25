@@ -12,10 +12,10 @@
 <hr>
 <h3><b>Analysis:</b></h3>
 <div align="center">
-    <img height="150px"src="https://github-readme-stats.vercel.app/api?username=LucasLima004&show_icons=true&theme=dark&hide">
-    <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=LucasLima004&theme=dark&hide_border=false">
-    <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima004&compact&langs_count=8&theme=dark&hide">
-    <img src="https://activity-graph.herokuapp.com/graph?username=LucasLima004&theme=react-dark">
+    <img height="150px"src="https://github-readme-stats.vercel.app/api?username=LucasLima004&show_icons=true&theme=dark&hide&title_color=020201&text_color=020201F&icon_color=020201&border_color=020201&bg_color=CE5327">
+    <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=LucasLima004&background=CE5327&dates=050402&sideLabels=050402&currStreakLabel=050402&sideNums=050402&fire=050402&ring=050402&stroke=050402">
+    <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima004&compact&langs_count=8&theme=dark&hide&title_color=020201&text_color=020201&icon_color=020201&border_color=020201&bg_color=CE5327">
+    <img src="https://activity-graph.herokuapp.com/graph?username=LucasLima004&theme=dark&bg_color=CE5327&color=020100&line=020100&point=020100&area_color=020100">
 </div>
 <hr>
 <h3>languages and FrameWorks:</h3>
@@ -32,6 +32,8 @@
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864094-eb60a7b3-e928-4674-9424-90a28e9838e0.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864096-211c5068-98cc-4f61-a796-e0081376d2de.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864098-464ad402-e545-4017-af8e-75885539feb5.svg"> 
+  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/170339781-9167f0f2-8777-4895-bb61-8a46d37e0cb3.svg"> 
+
 </div>
 <hr>
 <h3 align="left">About Me:</h3>
