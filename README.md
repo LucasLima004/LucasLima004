@@ -30,10 +30,12 @@
   <img height="60px"  src="https://user-images.githubusercontent.com/99892157/191780364-09d66b60-4657-4715-b965-390139fc6a51.svg">
   <br>
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864093-326f1884-8bf5-4ec5-b1f1-f9399df4d5d7.svg">
+  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/191781995-8b0f6f94-96da-411d-bcb8-1a7764ccaa26.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864094-eb60a7b3-e928-4674-9424-90a28e9838e0.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864096-211c5068-98cc-4f61-a796-e0081376d2de.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864098-464ad402-e545-4017-af8e-75885539feb5.svg"> 
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/170339781-9167f0f2-8777-4895-bb61-8a46d37e0cb3.svg"> 
+  <img height="60px"  src="https://user-images.githubusercontent.com/99892157/191785329-07cf428a-ad15-487a-9b20-4a34d347b4b0.svg"> 
 
 </div>
 <hr>
