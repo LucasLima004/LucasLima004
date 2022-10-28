@@ -15,7 +15,6 @@
     <img height="150px"src="https://github-readme-stats.vercel.app/api?username=LucasLima004&show_icons=true&theme=dark&hide&title_color=020201&text_color=020201F&icon_color=020201&border_color=020201&bg_color=CE5327">
     <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=LucasLima004&background=CE5327&dates=050402&sideLabels=050402&currStreakLabel=050402&sideNums=050402&fire=050402&ring=050402&stroke=050402">
     <br><img height="350px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima004&compact&langs_count=8&theme=dark&hide&title_color=020201&text_color=020201&icon_color=020201&border_color=020201&bg_color=CE5327">
-    <img src="https://activity-graph.herokuapp.com/graph?username=LucasLima004&theme=dark&bg_color=CE5327&color=020100&line=020100&point=020100&area_color=020100">
 </div>
 <hr>
 <h3>languages and FrameWorks:</h3>
