@@ -31,7 +31,8 @@
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864098-464ad402-e545-4017-af8e-75885539feb5.svg"> 
   <img height="60px"  src="https://user-images.githubusercontent.com/99892157/191785329-07cf428a-ad15-487a-9b20-4a34d347b4b0.svg"> 
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864745-578dda4f-4e66-4d4e-8a58-05a5b658cc68.svg">
-  
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/bd8d9d79-157a-4992-8319-f8c2d3d2adce">
+ 
 <h3>Back-End skills:</h3>
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/182045261-1119b2c4-23c8-4ac6-8b2f-538859ca0076.svg">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/98337d3e-2657-4d38-acc0-9551b8bb1a92">
