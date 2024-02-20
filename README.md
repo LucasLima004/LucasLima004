@@ -66,15 +66,6 @@
 </div>
 <hr>
 
-<h3 align="left">Design patterns:</h3>
-  <ul>
-    <li>Microservices with MVC.</li>
-    <li>Microservices with Ports and adapters.</li>
-    <li>Microservices with UseCases.</li>
-  </ul>
-
-
-<hr>
 <h3 align="left">About Me:</h3>
 
 
