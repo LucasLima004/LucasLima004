@@ -39,15 +39,24 @@
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/295bd2e3-9859-468f-9755-e97649018e85">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/13985bf7-6f3d-4b55-a9b3-4836c32b7b51">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/191781995-8b0f6f94-96da-411d-bcb8-1a7764ccaa26.svg">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/2af024ea-bd48-4703-b86c-5eae347c963d">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6df60389-6bad-4fbb-8cfe-4d72dceb7a4c">
+
 
 <h3>Database skills:</h3>
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/3cf2f4af-acb6-496f-821c-b1f6070f5eed">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/dbe5d76d-127c-4751-802e-b1e082382b6b">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/ce43744e-ae0b-47e7-ad70-fe500aeaadd8">
+
 
 <h3>Build, packer and automation skills:</h3>
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/db854560-3ba1-42fb-9988-cf6eeda92d44">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/f02bf758-612b-44dd-8693-36914ba6bca0">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864096-211c5068-98cc-4f61-a796-e0081376d2de.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864093-326f1884-8bf5-4ec5-b1f1-f9399df4d5d7.svg">
+
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6a8cf7ca-2036-4247-be78-64ac2e919a7e">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/bc535023-d840-400c-b899-e0846d03aecc">
 
 <h3>Unitary test skills:</h3>
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/92d02bee-7a76-449d-8e6b-77b370231517">
