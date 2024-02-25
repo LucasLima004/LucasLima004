@@ -19,11 +19,8 @@
 <hr>
 <h3>languages and FrameWorks:</h3>
 <div align="center">
-<h3>Front-End skills:</h3>
   
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864082-24199629-2d2c-425f-91e6-b4f618c086e1.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864087-53440296-8e8e-4101-9cd1-c1b741f400f3.svg">
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864084-a0e6281b-0843-4a27-93c3-d18a37ce79b6.svg">
+<h3>Front-End skills:</h3>
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/3bfd35cd-2c29-437d-9f25-1dcd28854f84">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/059282ad-691a-46be-b234-07a43c1139b9">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6d355a71-1b43-40f7-8ae8-52c8314271aa">
@@ -35,7 +32,6 @@
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6c060e0f-0e56-487c-a5a0-a7c1e9ca4531">
  
 <h3>Back-End skills:</h3>
-  <img height="50px"  src="https://user-images.githubusercontent.com/99892157/182045261-1119b2c4-23c8-4ac6-8b2f-538859ca0076.svg">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/98337d3e-2657-4d38-acc0-9551b8bb1a92">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/295bd2e3-9859-468f-9755-e97649018e85">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/13985bf7-6f3d-4b55-a9b3-4836c32b7b51">
