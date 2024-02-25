@@ -51,9 +51,7 @@
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/f02bf758-612b-44dd-8693-36914ba6bca0">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864096-211c5068-98cc-4f61-a796-e0081376d2de.svg">
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/166864093-326f1884-8bf5-4ec5-b1f1-f9399df4d5d7.svg">
-  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6a8cf7ca-2036-4247-be78-64ac2e919a7e">
-  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/bc535023-d840-400c-b899-e0846d03aecc">
-
+ 
 <h3>Unitary test skills:</h3>
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/92d02bee-7a76-449d-8e6b-77b370231517">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/037dd989-6c98-4f9b-91eb-4e0258363e53">
@@ -62,6 +60,9 @@
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/2ae131a5-e0b7-4bb7-b58c-111ceac1cce8">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/74199df5-1efb-4f86-9ea2-44727d71ea7f">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/d7d9d5b1-bd1f-4f86-a899-083840c5cd17">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6a8cf7ca-2036-4247-be78-64ac2e919a7e">
+  <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/bc535023-d840-400c-b899-e0846d03aecc">
+
 
 
 
