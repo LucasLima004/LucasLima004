@@ -98,11 +98,11 @@ function getCurrentCity() {
 <hr>
 <h3>My portfólio:</h3>
 <div align="center">
-<a href="https://lucaslima004.github.io/MyPortf-lio/">
-    <img alt="link to the repository of my portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLima004&repo=MyPortf-lio&bg_color=CD5327&title_color=0D0F1B&text_color=0D0F1B&hide_border=&show_icons=true&icon_color=0D0F1B&locale=en">
+<a href="https://lucaslima004.github.io/MyPortfolio/">
+    <img alt="link to the repository of my portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLima004&repo=MyPortfolio&bg_color=CD5327&title_color=0D0F1B&text_color=0D0F1B&hide_border=&show_icons=true&icon_color=0D0F1B&locale=en">
 </a>
 </br>
-<a href="https://lucaslima004.github.io/MyPortf-lio/">
+<a href="[https://lucaslima004.github.io/MyPortf-lio/](https://lucaslima004.github.io/MyPortfolio/)">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=D18C30&style=for-the-badge" />
 </a>
 </div>
