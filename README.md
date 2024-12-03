@@ -116,7 +116,7 @@ function getCurrentCity() {
   <a target="_blank" href="mailto:lucaslima004@gmail.com">
      <img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-CD5327?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-lima-6129a4226">
+  <a target="_blank" href="https://www.linkedin.com/in/lucas-lima-786999291">
     <img width="100px" height="30px"  src="https://img.shields.io/badge/LinkedIn-CD5327?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
