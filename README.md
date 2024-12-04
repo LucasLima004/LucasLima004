@@ -38,6 +38,7 @@
   <img height="50px"  src="https://user-images.githubusercontent.com/99892157/191781995-8b0f6f94-96da-411d-bcb8-1a7764ccaa26.svg">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/2af024ea-bd48-4703-b86c-5eae347c963d">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6df60389-6bad-4fbb-8cfe-4d72dceb7a4c">
+  <img height="50px"  src="https://github.com/user-attachments/assets/91788f29-3734-40c3-83cc-758b819c990f">
 
 
 <h3>Database skills:</h3>
@@ -62,9 +63,7 @@
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/d7d9d5b1-bd1f-4f86-a899-083840c5cd17">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/6a8cf7ca-2036-4247-be78-64ac2e919a7e">
   <img height="50px"  src="https://github.com/LucasLima004/LucasLima004/assets/99892157/bc535023-d840-400c-b899-e0846d03aecc">
-
-
-
+  <img height="50px"  src="https://github.com/user-attachments/assets/956d4ba7-db2d-46d9-845b-fc5f1ac2a121">
 
 
 
