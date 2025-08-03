@@ -1,6 +1,6 @@
 <hr>
 <div align="center">
-  <h2><b>Lucas Lima</b><br>Full-stack develop junior</h2>
+  <h2><b>Lucas Lima</b><br>Full-stack develop Pleno</h2>
   <img width="100px" src="https://user-images.githubusercontent.com/99892157/166800600-3d31e845-4d18-4286-b5c3-5a7230fb7ff0.svg">
 </div>
 <hr>
@@ -77,13 +77,15 @@
 ```js
 const aboutMe = {
   user: "Lucas Lima",
-  function: "Full-stack junior dev and industrial automation technician",
+  function: "Full-stack Pleno dev and industrial automation technician",
   current_education: "Estácio, Udemy and Senai",
   hobbies: [
     "Studying",
     "Robotic",
+    "Reading, listening to podcasts and old rock",
+    "Cafes and bookstores",
     "Graphic design",
-    "Cooking",
+    "Gastronomic trips and cooking",
     "Games"
   ]
 };
